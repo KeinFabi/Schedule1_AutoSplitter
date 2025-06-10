@@ -1,5 +1,7 @@
 Schedule I Autosplitter – BETA v0.3.6
 
+BIG THANKS to Doublemoses fot his initial project and helping figuring stuff :)
+
 This is an early BETA release of an autosplitter for Schedule I, currently in version v0.3.6. The script is designed to assist with speedrunning by automatically starting the timer and splitting at key milestones. While several core features are already implemented, please note that this version is still in development and may have bugs or missing functionality.
 
 🚧 Current Limitations
